@@ -12,8 +12,6 @@ CREATE TABLE Titles (
      )
 );
 
-
-
 CREATE TABLE Employee (
     emp_no int   NOT NULL,
     emp_title_id varchar(5)   NOT NULL,
