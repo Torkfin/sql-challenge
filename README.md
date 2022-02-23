@@ -1,2 +1,2 @@
 # sql-challenge
-The three files requested Employee-Schema, Employee-Queries and the ERD are all included un the Employee SQL folder.   I am now going to work on the extra credit.gi 
+The three files requested Employee-Schema, Employee-Queries and the ERD are all included un the Employee SQL folder.   Also completed the Python work.  The Jupyter Notebook and the two requrested files are also included in the SQL Folder.  
